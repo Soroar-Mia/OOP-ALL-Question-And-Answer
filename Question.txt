@@ -1,0 +1,13 @@
+Class: A blueprint for creating objects.
+
+Object: An instance of a class.
+
+Methods: Functions defined inside a class.
+
+Inheritance: A way to form new classes using classes that have already been defined.
+
+Encapsulation: The bundling of data and the methods that operate on that data.
+
+Polymorphism: The ability to call the same method on different objects and have each of them respond in their own way.
+
+Abstraction: Hiding the complex implementation details and showing only the necessary features.
